@@ -1,0 +1,1001 @@
+date,manufacturer,car_model,car_year,sales
+2018-06,Rolls-Royce,Ghost,2010,194
+2020-03,Mazda,Mazdaspeed6,2006,88
+2019-02,GMC,Yukon,2005,103
+2020-08,Subaru,Outback,2000,66
+2022-08,Mazda,CX-7,2012,158
+2021-06,GMC,Yukon XL 2500,2000,147
+2019-12,Buick,Rendezvous,2007,184
+2022-05,Suzuki,Sidekick,1989,152
+2018-07,Ford,Falcon,1966,101
+2019-11,Dodge,Dakota,1992,156
+2020-08,Toyota,RAV4,1999,119
+2021-02,Ford,F-Series,1985,160
+2021-05,Nissan,Armada,2010,176
+2018-09,Hyundai,Sonata,2013,75
+2020-08,Lincoln,Navigator,2002,163
+2022-12,Chevrolet,Silverado 1500,2011,157
+2020-11,Chevrolet,Express,2008,152
+2022-10,Corbin,Sparrow,2004,159
+2022-11,Mercedes-Benz,C-Class,2006,92
+2018-03,Volkswagen,Passat,2001,31
+2019-02,Ford,Fusion,2008,44
+2018-09,Dodge,Dakota Club,1993,24
+2020-05,Saab,9-5,2001,105
+2022-04,Chevrolet,G-Series G20,1992,52
+2018-02,Chevrolet,Express 1500,1998,148
+2019-05,Volkswagen,Jetta III,1995,13
+2018-09,Lexus,SC,2008,75
+2022-01,Chrysler,Sebring,1999,168
+2019-06,Audi,R8,2009,15
+2021-03,Saab,9000,1986,19
+2018-03,GMC,Safari,2004,87
+2021-01,Ford,Mustang,1996,6
+2019-11,Cadillac,CTS,2011,101
+2020-07,Mitsubishi,Galant,1993,109
+2021-02,Audi,A8,2005,143
+2020-09,Honda,S2000,2005,47
+2018-01,Ford,Econoline E350,1994,72
+2021-09,Scion,xB,2004,15
+2022-05,Pontiac,Firefly,1989,36
+2018-04,Buick,LeSabre,1994,93
+2019-09,Subaru,Forester,2003,151
+2019-10,Honda,Fit,2012,184
+2021-03,Mitsubishi,GTO,1999,117
+2022-05,Honda,CR-V,2011,163
+2020-07,Panoz,Esperante,2008,68
+2019-08,Nissan,Altima,2003,63
+2019-11,GMC,Envoy XL,2003,97
+2021-03,Mercury,Capri,1984,104
+2020-02,Chevrolet,S10 Blazer,1994,131
+2021-09,Honda,CR-V,2012,3
+2020-04,Subaru,Forester,2005,17
+2018-06,Isuzu,Oasis,1999,77
+2019-11,Lexus,RX Hybrid,2006,124
+2018-06,Toyota,Sienna,2005,89
+2018-01,Bentley,Continental GTC,2007,53
+2019-05,Cadillac,Catera,2001,33
+2021-07,GMC,Sierra 1500,2009,13
+2022-08,Buick,Regal,1993,177
+2021-03,Pontiac,Grand Prix,2000,99
+2021-09,Ford,Aerostar,1995,116
+2020-12,Alfa Romeo,Spider,1993,150
+2021-02,Toyota,Tacoma,2008,33
+2022-09,Subaru,Legacy,2008,74
+2022-11,Maserati,Quattroporte,2006,159
+2019-08,Volkswagen,Corrado,1994,142
+2019-03,Nissan,Xterra,2005,194
+2019-10,Buick,Century,1994,140
+2019-01,Austin,Mini,1959,158
+2022-07,Jeep,Compass,2010,77
+2021-08,Dodge,Grand Caravan,1997,132
+2018-04,Ford,Escort,1994,25
+2020-03,Jaguar,XJ,2012,161
+2018-02,Toyota,Sienna,2006,119
+2018-08,BMW,M6,2008,9
+2019-09,Mazda,Mazda6,2009,15
+2018-03,Mazda,MX-5,2010,151
+2019-10,GMC,3500 Club Coupe,1998,40
+2018-08,BMW,7 Series,1999,55
+2022-11,Dodge,Intrepid,1998,49
+2018-01,Acura,NSX,2005,137
+2019-04,Audi,90,1994,2
+2020-02,Pontiac,Firebird,1998,164
+2020-04,Lincoln,Town Car,2007,167
+2019-01,Hummer,H3,2009,73
+2020-08,Honda,Accord,2005,167
+2019-06,Toyota,RAV4,2005,174
+2021-03,Cadillac,Escalade,2000,189
+2022-05,Maserati,Biturbo,1985,37
+2022-12,Kia,Sportage,1995,42
+2021-08,Lamborghini,Countach,1990,157
+2019-10,GMC,Savana 2500,2010,20
+2019-12,Chevrolet,Corsica,1995,4
+2018-12,Ford,Five Hundred,2007,152
+2018-06,Chevrolet,Avalanche 1500,2003,107
+2022-09,GMC,Sierra 3500,2006,83
+2021-11,Volkswagen,Tiguan,2009,141
+2022-09,Ferrari,F430,2009,108
+2018-11,GMC,Savana 2500,2010,2
+2021-07,Mazda,MPV,2000,138
+2019-04,Chrysler,Sebring,1995,12
+2019-06,Ford,Edge,2012,86
+2020-11,BMW,M,2000,69
+2021-02,Plymouth,Acclaim,1995,71
+2018-08,Suzuki,Grand Vitara,2010,61
+2018-05,Buick,Hearse,1996,137
+2019-04,BMW,X6,2011,52
+2019-07,Chevrolet,Cavalier,2002,68
+2020-09,Honda,CR-V,2010,79
+2022-12,Nissan,Sentra,1993,123
+2020-07,Honda,CR-V,2012,142
+2021-10,Plymouth,Sundance,1993,154
+2018-07,Dodge,Ram 3500 Club,1996,188
+2022-11,BMW,Z3,2000,157
+2022-01,Pontiac,Grand Prix,1998,151
+2021-12,Land Rover,Defender 90,1994,80
+2018-11,Nissan,350Z,2004,199
+2019-06,Chevrolet,Suburban 1500,1998,128
+2021-04,Chevrolet,1500,1992,194
+2021-02,Ford,Mustang,1969,117
+2021-08,Acura,TSX,2007,112
+2018-09,Mitsubishi,RVR,1992,160
+2018-12,Volvo,S60,2001,17
+2018-10,Mercury,Sable,1990,44
+2019-09,Volkswagen,Touareg,2011,120
+2019-10,Infiniti,M,2011,113
+2018-05,Toyota,Sienna,2005,163
+2019-09,Mazda,929,1989,60
+2020-11,GMC,3500,1992,56
+2021-07,Land Rover,Discovery Series II,2001,140
+2018-05,Volkswagen,Phaeton,2005,60
+2019-04,Lexus,GX,2007,40
+2020-01,Volkswagen,Touareg,2003,34
+2021-08,Kia,Spectra,2002,56
+2022-04,Toyota,Camry,2000,24
+2018-04,Pontiac,Sunfire,1995,117
+2021-06,Ford,E150,2011,43
+2019-12,Dodge,Ram Van B150,1992,26
+2018-06,Ford,E350,2009,74
+2019-05,Pontiac,Torrent,2007,40
+2018-01,Mercedes-Benz,S-Class,2010,19
+2020-04,Land Rover,Defender,1992,40
+2018-02,Mitsubishi,Galant,1986,178
+2019-02,Geo,Tracker,1994,69
+2019-07,Chevrolet,Silverado,2010,3
+2020-07,Lincoln,Continental,1994,115
+2018-04,Jaguar,XK,2008,4
+2021-12,Volvo,V70,2001,20
+2019-06,Volkswagen,GTI,2008,19
+2021-10,Chevrolet,Corsica,1994,18
+2022-07,Mazda,B-Series Plus,1995,72
+2020-06,Pontiac,GTO,1968,84
+2022-06,Chevrolet,Equinox,2007,148
+2021-09,Austin,Mini Cooper,1961,39
+2022-06,Volkswagen,Type 2,1986,26
+2021-02,Mercury,Marquis,1984,83
+2019-08,Hummer,H1,1993,97
+2022-12,Kia,Sephia,1997,71
+2022-04,GMC,Envoy XL,2004,25
+2021-04,Aston Martin,Rapide,2010,13
+2021-04,Chevrolet,Cobalt,2006,45
+2022-03,Suzuki,Sidekick,1994,85
+2021-09,Saab,9-3,2002,114
+2019-02,Mercury,Villager,1995,95
+2018-01,BMW,600,1957,30
+2020-11,Mazda,929,1990,147
+2021-07,Volkswagen,Tiguan,2011,168
+2019-11,Aston Martin,DB9,2011,162
+2020-07,Mitsubishi,Chariot,1988,97
+2018-05,Mercedes-Benz,M-Class,2010,9
+2019-05,Mercedes-Benz,CL-Class,2011,47
+2019-09,Toyota,Avalon,2009,75
+2020-03,Chevrolet,Suburban 2500,1997,183
+2022-01,Lotus,Elise,2006,63
+2021-01,Saab,9000,1997,72
+2019-09,Pontiac,GTO,1964,36
+2019-08,GMC,Sierra 3500,2009,170
+2021-02,Audi,S4,2000,50
+2018-03,Ford,Focus,2009,7
+2020-09,GMC,Envoy XL,2004,19
+2018-09,Ford,Taurus,1991,48
+2022-06,Buick,LeSabre,2005,138
+2019-06,Dodge,Ram 1500,2007,61
+2019-05,Ford,Expedition,2009,174
+2020-11,Mercedes-Benz,CL-Class,2000,16
+2020-09,Ford,Thunderbird,1997,27
+2022-02,Toyota,Supra,1996,143
+2022-02,Volkswagen,Touareg,2011,131
+2021-12,Mazda,323,1995,163
+2019-04,Isuzu,Ascender,2004,43
+2022-03,Cadillac,Seville,1999,69
+2021-11,Mercury,Topaz,1984,91
+2022-02,Hyundai,Scoupe,1992,33
+2018-03,Chrysler,Town & Country,2002,184
+2019-02,Volvo,V70,2010,15
+2022-09,Mitsubishi,Pajero,2000,180
+2022-02,GMC,Yukon,2001,113
+2022-06,Chevrolet,2500,1999,35
+2022-02,Nissan,Frontier,2010,100
+2022-03,Dodge,Ram 1500,2000,114
+2020-08,Kia,Soul,2011,139
+2019-04,Dodge,Avenger,2010,156
+2018-01,Mitsubishi,Galant,1985,161
+2019-10,Ferrari,612 Scaglietti,2010,107
+2018-08,Chrysler,Prowler,2001,80
+2022-04,Subaru,XT,1990,107
+2020-07,Mazda,B-Series,2006,79
+2019-06,Dodge,Caravan,2004,200
+2021-05,Nissan,Xterra,2007,122
+2019-07,Ford,Bronco,1996,46
+2018-05,BMW,5 Series,1994,54
+2021-04,Land Rover,Range Rover Classic,1993,75
+2021-01,Acura,Legend,1987,104
+2022-10,Isuzu,Rodeo,2004,12
+2019-01,Ferrari,458 Italia,2011,46
+2021-09,Pontiac,Montana,1999,163
+2018-10,Audi,A4,2004,88
+2022-12,BMW,5 Series,1992,179
+2022-12,Audi,V8,1994,144
+2020-12,GMC,Suburban 2500,1996,128
+2018-11,Volkswagen,GTI,1999,99
+2020-12,Land Rover,Range Rover,2009,158
+2018-10,Mazda,B-Series,1986,10
+2020-10,Subaru,Legacy,2012,29
+2020-09,Plymouth,Grand Voyager,1993,36
+2022-07,GMC,2500,1998,47
+2019-02,Kia,Rio,2007,183
+2018-09,Pontiac,Safari,1988,100
+2018-10,Toyota,Camry Hybrid,2012,179
+2022-08,Mitsubishi,Lancer Evolution,2008,112
+2019-04,Lincoln,Town Car,1989,7
+2020-09,Ford,Mustang,1979,22
+2021-09,Chrysler,LHS,2000,108
+2019-11,Hyundai,Sonata,1995,121
+2019-05,Ford,Taurus,1990,44
+2018-01,Ford,Crown Victoria,2000,104
+2018-05,Ford,Econoline E150,1996,198
+2021-07,Mercury,Mariner,2005,151
+2019-11,GMC,3500,1996,8
+2022-06,Mitsubishi,Endeavor,2004,18
+2018-06,Mercedes-Benz,M-Class,1998,161
+2022-07,Volkswagen,Golf,1990,35
+2019-06,Acura,NSX,1992,13
+2022-03,Dodge,Ram 2500 Club,1995,16
+2018-11,Volkswagen,New Beetle,2012,94
+2021-07,Toyota,Previa,1992,108
+2018-07,Mitsubishi,Truck,1988,155
+2018-03,Mazda,626,1999,175
+2019-07,Ford,Taurus,1999,124
+2022-02,Dodge,Ram 2500,2002,4
+2021-11,Volvo,940,1995,6
+2021-02,Audi,V8,1992,59
+2019-12,Audi,V8,1994,165
+2020-09,Volvo,C70,2002,129
+2018-01,Chevrolet,Camaro,1977,15
+2022-07,Cadillac,Escalade,1999,93
+2019-01,Acura,NSX,2000,63
+2021-12,GMC,Sierra 2500,2010,158
+2021-04,Lincoln,Town Car,2002,49
+2018-04,Pontiac,LeMans,1988,112
+2019-08,Ford,Econoline E350,1996,145
+2018-12,Honda,Civic,2006,139
+2018-09,Mitsubishi,Chariot,1987,83
+2020-07,GMC,Suburban 1500,1996,169
+2022-06,Ford,Taurus X,2008,105
+2020-02,GMC,Yukon,1995,16
+2019-08,Jeep,Liberty,2011,49
+2019-01,Chevrolet,Silverado 3500,2006,71
+2019-09,Dodge,Ram 1500 Club,2000,89
+2020-03,Lamborghini,Countach,1985,27
+2018-06,Cadillac,Escalade,2006,48
+2021-06,Volvo,740,1992,129
+2019-07,Buick,LeSabre,1998,49
+2021-02,Volvo,S80,2006,39
+2021-09,Ford,F150,1995,58
+2021-12,BMW,3 Series,2009,57
+2018-07,Subaru,Impreza WRX,2010,46
+2018-07,Chevrolet,HHR,2007,170
+2019-01,Bentley,Continental GTC,2011,94
+2021-12,Jeep,Commander,2010,2
+2019-10,Chrysler,Sebring,1997,32
+2018-11,Jeep,Wrangler,2003,97
+2019-07,Ford,F250,2009,133
+2018-05,Chevrolet,Silverado 2500,1999,86
+2021-10,Mercury,Mountaineer,1997,182
+2022-01,Audi,A6,2002,169
+2020-07,Pontiac,Grand Prix,1962,5
+2021-02,Jaguar,XJ Series,1995,156
+2021-03,Mitsubishi,Tredia,1988,106
+2020-08,Chrysler,PT Cruiser,2008,98
+2019-09,Ford,Focus,2000,31
+2020-03,Kia,Sportage,2009,56
+2018-04,GMC,Savana,2012,185
+2022-02,Hyundai,Accent,2009,23
+2022-09,Volvo,S70,2000,43
+2021-10,GMC,Terrain,2012,97
+2020-09,Suzuki,Esteem,2001,60
+2020-11,Hyundai,Sonata,1992,107
+2022-08,Cadillac,XLR-V,2006,168
+2022-09,Kia,Optima,2011,168
+2022-08,Lincoln,Navigator,1998,9
+2022-04,Chevrolet,Cavalier,1998,164
+2021-08,Ford,Mustang,2009,77
+2020-08,BMW,Z3,1998,87
+2019-12,Acura,CL,2001,108
+2020-03,Lincoln,Continental,1990,121
+2019-08,Dodge,Caravan,1992,2
+2018-05,Jeep,Grand Cherokee,2006,136
+2019-03,Toyota,Sequoia,2002,35
+2018-01,Chevrolet,Caprice,1983,149
+2020-03,Nissan,Sentra,2002,116
+2020-07,Dodge,Ram Van 3500,1998,169
+2018-01,Chevrolet,Express 2500,1996,140
+2020-10,Chrysler,Town & Country,2009,48
+2019-01,Toyota,Camry,2007,138
+2022-03,Land Rover,Discovery,2002,79
+2022-05,Chevrolet,Suburban 2500,1998,161
+2020-10,Hyundai,Sonata,2001,155
+2018-05,Suzuki,Sidekick,1992,138
+2021-03,Mercury,Sable,2004,6
+2018-12,Buick,Regal,2011,98
+2018-10,Chevrolet,Avalanche 1500,2002,24
+2022-04,Mitsubishi,Mighty Max,1993,111
+2021-12,Geo,Prizm,1994,71
+2020-07,GMC,Sierra 3500HD,2006,45
+2018-08,Mazda,Miata MX-5,2010,10
+2022-08,Mazda,Protege5,2003,184
+2019-06,Honda,S2000,2005,26
+2022-08,Lincoln,LS,2001,108
+2021-02,Mercury,Mariner,2005,191
+2022-01,Audi,A5,2009,146
+2020-11,Ford,F-Series,2011,71
+2021-03,Mazda,MX-5,1995,190
+2022-03,Nissan,Frontier,2002,159
+2019-04,Mercury,Grand Marquis,2002,114
+2021-05,Lexus,ES,1997,102
+2020-11,Hummer,H3,2007,10
+2021-09,Cadillac,STS-V,2008,9
+2021-03,Mercury,Mountaineer,2007,91
+2018-02,Oldsmobile,Bravada,2002,199
+2021-05,Chevrolet,Astro,1997,59
+2020-08,Ford,E-Series,1985,165
+2020-04,Isuzu,VehiCROSS,2000,44
+2019-05,Audi,S6,2003,56
+2019-07,Buick,LeSabre,1998,87
+2018-05,Dodge,Ram,2008,143
+2020-12,Land Rover,LR2,2009,161
+2019-05,Buick,Reatta,1989,139
+2020-05,Maybach,57S,2005,38
+2020-02,Toyota,Prius,2012,55
+2020-12,Mitsubishi,Challenger,2000,31
+2022-10,Toyota,Avalon,2010,97
+2022-07,Toyota,Paseo,1992,119
+2018-11,Lincoln,LS,2004,24
+2022-02,Pontiac,1000,1986,128
+2021-09,Mazda,MX-5,2011,71
+2018-08,Ford,Econoline E350,1997,174
+2019-01,Ford,Ranger,1984,127
+2020-01,Maybach,57,2009,142
+2020-08,Chevrolet,Corvette,1956,64
+2020-07,Daewoo,Lanos,2002,11
+2021-05,Dodge,Stealth,1994,168
+2019-11,Dodge,Intrepid,2004,179
+2021-12,Rolls-Royce,Ghost,2012,105
+2020-05,BMW,330,2005,116
+2022-08,Mazda,626,1984,5
+2018-12,Scion,xB,2006,143
+2019-10,MINI,Cooper Clubman,2009,105
+2022-09,Audi,TT,2008,34
+2020-05,GMC,1500,1995,111
+2021-07,GMC,Sonoma,1997,36
+2022-09,Ford,Aspire,1994,25
+2018-02,GMC,Yukon,1997,68
+2022-05,Mitsubishi,GTO,1997,158
+2020-08,Buick,Park Avenue,1994,45
+2020-08,Mitsubishi,Eclipse,2008,132
+2018-07,Volvo,XC90,2005,132
+2018-03,Jeep,Comanche,1992,178
+2021-01,Ford,F150,2006,166
+2021-05,Ferrari,458 Italia,2012,45
+2020-07,Toyota,RAV4,2009,73
+2020-10,Lotus,Elan,1994,84
+2022-03,Austin,Mini Cooper,1964,118
+2019-08,Ford,Escort,1996,19
+2022-02,Mitsubishi,3000GT,1997,140
+2021-08,Toyota,Land Cruiser,2001,7
+2021-01,Jaguar,XJ,2006,21
+2022-11,Chrysler,Cirrus,1999,30
+2021-09,Ford,Laser,1985,129
+2022-12,Porsche,944,1987,10
+2018-03,Chevrolet,Cavalier,1997,38
+2020-04,Pontiac,Daewoo Kalos,2005,177
+2021-05,Honda,S2000,2000,3
+2018-02,Nissan,Pathfinder,2011,64
+2022-07,Aston Martin,V8 Vantage,2009,49
+2018-03,Kia,Amanti,2007,145
+2020-02,Ford,Focus,2010,14
+2021-01,Volvo,V40,2002,132
+2019-01,Mazda,626,1990,17
+2022-07,Volvo,940,1992,25
+2019-02,Lincoln,LS,2004,102
+2022-07,Chevrolet,Silverado 3500,2003,159
+2022-08,GMC,Terrain,2010,186
+2022-01,Ford,Aerostar,1988,51
+2020-09,Mazda,B-Series Plus,2003,32
+2022-09,BMW,3 Series,2007,60
+2021-08,Mercedes-Benz,C-Class,2005,145
+2021-05,Mercury,Grand Marquis,1989,37
+2021-06,Mercury,Tracer,1991,187
+2020-03,Mercury,Grand Marquis,2002,133
+2022-03,Dodge,Shadow,1994,93
+2022-03,Dodge,Stealth,1996,149
+2020-07,Dodge,Caravan,1996,90
+2019-12,Lincoln,MKZ,2007,59
+2018-10,Chevrolet,Corvette,1962,154
+2021-08,Citroën,SM,1972,65
+2019-10,Acura,NSX,1997,32
+2020-02,Buick,LeSabre,1997,190
+2019-11,Chevrolet,Suburban 2500,2001,66
+2018-12,Mercury,Capri,1994,42
+2018-04,Plymouth,Sundance,1992,129
+2018-07,Ford,Five Hundred,2005,63
+2018-06,Mercury,Grand Marquis,1990,137
+2022-03,GMC,Yukon,1994,27
+2022-10,Dodge,Dakota Club,1995,9
+2021-08,Toyota,RAV4,2012,169
+2020-11,Chevrolet,Silverado 2500,2001,73
+2020-11,Ford,Mustang,1988,171
+2021-06,Pontiac,Sunbird,1992,144
+2020-04,Mazda,Miata MX-5,2001,143
+2022-12,Porsche,Boxster,1997,40
+2021-09,Lexus,GS,1993,77
+2019-02,Ford,Econoline E250,2002,34
+2019-12,Porsche,911,1993,193
+2021-01,Toyota,Venza,2013,110
+2022-04,Dodge,Ram 1500,2004,190
+2018-04,Chevrolet,Suburban 2500,2011,151
+2018-06,Toyota,Solara,2001,34
+2019-06,Aston Martin,V8 Vantage,2006,10
+2022-12,Ford,Model T,1909,158
+2022-06,Audi,TT,2005,117
+2018-02,Subaru,Legacy,2002,195
+2022-03,Volkswagen,Golf,2000,89
+2019-03,Mercedes-Benz,CL-Class,2008,92
+2019-11,Chevrolet,Express 3500,2004,57
+2019-01,Land Rover,LR2,2011,100
+2020-09,Ford,Aerostar,1993,58
+2019-09,Isuzu,Rodeo,2001,68
+2022-05,Lexus,LX,2006,148
+2020-11,Mazda,MX-5,2005,77
+2020-10,Volkswagen,Fox,1989,11
+2021-03,Mazda,323,1995,133
+2021-03,Suzuki,Grand Vitara,2011,114
+2022-04,Toyota,Sequoia,2010,91
+2020-09,Honda,CR-V,2011,125
+2021-11,Toyota,TundraMax,2007,7
+2022-10,Ford,Taurus,1990,87
+2022-06,Volkswagen,Scirocco,1987,24
+2020-01,Ford,Excursion,2000,189
+2020-02,Toyota,Avalon,2006,115
+2022-08,GMC,3500 Club Coupe,1994,113
+2018-03,GMC,Suburban 2500,1993,128
+2020-02,Chrysler,New Yorker,1996,153
+2019-12,BMW,M5,2002,159
+2018-09,Lexus,LX,1997,123
+2019-09,Mercury,Capri,1986,194
+2020-07,Mercury,Mountaineer,2003,103
+2021-07,Eagle,Summit,1993,196
+2018-07,Maserati,Quattroporte,2006,141
+2022-10,Dodge,Ram 3500,2005,30
+2021-01,Kia,Sephia,1997,17
+2019-02,Chrysler,Town & Country,1997,17
+2021-05,Honda,Civic,1999,148
+2022-10,Jeep,Comanche,1992,52
+2019-09,Toyota,Avalon,2010,50
+2022-04,Volvo,S40,2000,74
+2018-03,Mitsubishi,Diamante,2000,26
+2019-09,Ford,Excursion,2002,135
+2022-03,Mazda,929,1990,187
+2018-04,Chevrolet,Venture,2005,185
+2021-04,Audi,S8,2003,16
+2019-10,Dodge,Dakota Club,1995,105
+2021-03,Rolls-Royce,Phantom,2006,47
+2018-03,Audi,100,1992,146
+2018-03,Ford,E250,2010,36
+2020-07,GMC,Sonoma,1996,87
+2021-08,Chevrolet,Monza,1975,48
+2022-02,Chevrolet,Sportvan G10,1992,146
+2019-12,BMW,6 Series,2008,9
+2021-03,Land Rover,Defender 110,1993,31
+2021-02,BMW,7 Series,1994,71
+2021-03,Volvo,S80,2002,83
+2019-10,Chevrolet,Cobalt,2009,168
+2021-03,Ford,LTD Crown Victoria,1991,104
+2018-06,Mazda,MX-5,1998,177
+2021-03,Dodge,Ram Van B150,1992,174
+2018-06,Ford,Freestar,2003,170
+2020-11,Mercedes-Benz,M-Class,2011,184
+2021-11,Chevrolet,Silverado 1500,2011,138
+2021-08,Chevrolet,Prizm,2002,177
+2021-11,Audi,5000CS,1987,56
+2022-03,Dodge,Ram Van 1500,1995,192
+2022-09,Dodge,Ram 2500 Club,1997,130
+2022-05,Fairthorpe,Rockette,1960,159
+2018-10,Chrysler,300M,2002,9
+2020-09,Ford,Expedition,1997,13
+2022-04,GMC,EV1,1999,162
+2018-05,Mitsubishi,3000GT,1999,60
+2018-06,Subaru,Baja,2005,74
+2018-01,Volkswagen,GTI,1999,27
+2022-08,Porsche,Cayenne,2004,86
+2022-03,Buick,Century,1990,82
+2022-03,Mitsubishi,Chariot,1994,56
+2018-06,Mazda,MX-5,2009,199
+2020-05,Buick,Lucerne,2011,4
+2018-07,Dodge,Ram Van 3500,2000,2
+2022-10,Cadillac,Escalade,2011,152
+2018-05,Chevrolet,Caprice,1977,187
+2020-10,Mazda,MPV,1989,117
+2021-11,Jeep,Grand Cherokee,2005,98
+2018-04,Porsche,Cayenne,2008,200
+2019-03,Saab,900,1999,145
+2022-11,Saab,9-5,2005,92
+2018-10,Chevrolet,Impala SS,1994,184
+2018-04,Lamborghini,Countach,1985,120
+2021-03,Chevrolet,G-Series G10,1994,101
+2018-12,Saab,9-3,1999,135
+2022-12,Buick,Century,2002,30
+2020-07,Saab,9-3,2004,127
+2019-02,Mercedes-Benz,SLS AMG,2011,170
+2018-08,BMW,Z4 M,2007,157
+2022-11,Chevrolet,Aveo,2006,32
+2021-03,Chevrolet,Corvette,1954,50
+2022-12,Nissan,Murano,2007,164
+2018-05,Hyundai,XG350,2003,127
+2022-01,Volkswagen,rio,1996,166
+2022-12,Honda,Accord,1983,30
+2022-02,GMC,Suburban 1500,1996,140
+2022-05,Mitsubishi,Eclipse,1989,85
+2020-12,Volkswagen,Touareg 2,2009,166
+2018-05,Land Rover,Range Rover,2010,182
+2021-06,Volkswagen,New Beetle,2000,6
+2022-05,Pontiac,Montana,2000,197
+2019-10,Land Rover,Range Rover,2002,124
+2020-10,Chevrolet,Citation,1980,9
+2022-06,Mazda,Miata MX-5,1993,19
+2018-02,Toyota,Camry Hybrid,2007,66
+2021-10,Toyota,4Runner,2003,100
+2021-10,Ford,Escort,2001,76
+2021-04,Ford,Explorer Sport Trac,2001,170
+2019-11,Maybach,62,2003,50
+2022-01,Dodge,Ram 3500,2004,180
+2021-05,Bentley,Continental GT,2009,180
+2020-01,GMC,Vandura 1500,1992,68
+2021-02,Ford,Probe,1990,28
+2019-03,Hyundai,Tiburon,1997,161
+2020-10,Acura,TSX,2012,85
+2021-10,BMW,Z4 M,2008,117
+2022-07,Toyota,Sequoia,2008,150
+2021-09,GMC,1500,1994,50
+2018-04,Ford,Explorer,2002,73
+2022-04,Toyota,Xtra,1992,18
+2018-09,Mercury,Sable,2009,76
+2021-08,Chevrolet,Corvette,1965,50
+2020-12,Cadillac,Escalade ESV,2006,74
+2019-04,GMC,Sonoma Club,1992,38
+2018-01,GMC,Vandura 1500,1992,181
+2020-11,Nissan,Xterra,2009,128
+2022-04,Chevrolet,Corvette,1968,180
+2020-03,Audi,Q5,2011,88
+2018-04,Toyota,Avalon,2004,131
+2019-04,Buick,Century,2001,68
+2022-09,GMC,Sierra 3500,2007,177
+2021-03,Toyota,Sequoia,2003,50
+2021-11,Volkswagen,Cabriolet,1991,80
+2022-08,Buick,Park Avenue,1995,116
+2021-04,Subaru,XT,1990,149
+2021-06,BMW,X5,2006,151
+2020-06,Volkswagen,Passat,1992,200
+2019-04,Geo,Prizm,1992,121
+2022-11,Subaru,Tribeca,2006,147
+2022-09,Acura,Legend,1993,194
+2020-02,Porsche,944,1988,141
+2019-01,Geo,Metro,1996,102
+2019-08,Buick,Lucerne,2010,106
+2018-09,Plymouth,Volare,1976,134
+2022-06,Volkswagen,Golf,1988,142
+2021-12,Mercedes-Benz,E-Class,1986,166
+2022-06,Lexus,RX Hybrid,2006,89
+2021-04,Toyota,Yaris,2007,76
+2021-06,Plymouth,Colt,1992,98
+2022-08,GMC,Sierra 2500,2002,87
+2019-10,Lincoln,MKS,2012,114
+2020-12,Mercedes-Benz,CLK-Class,2007,1
+2020-01,Honda,CR-V,2011,118
+2021-02,Kia,Sedona,2004,81
+2021-03,Mazda,Mazda5,2007,12
+2018-06,Ford,Thunderbird,1967,154
+2018-03,Lexus,LX,2004,31
+2019-05,Isuzu,Oasis,1998,58
+2018-12,Chrysler,Town & Country,2008,166
+2021-05,Lexus,ES,2006,113
+2022-10,Toyota,Corolla,2000,4
+2022-07,Land Rover,Discovery,1999,156
+2022-10,Audi,A6,2006,107
+2020-05,Pontiac,Firebird,2001,106
+2022-02,GMC,Savana,2011,4
+2022-02,Mazda,323,1992,122
+2020-09,Mercedes-Benz,300D,1993,199
+2020-04,Chevrolet,2500,1995,86
+2019-07,Hyundai,Veloster,2013,126
+2020-07,Aston Martin,Vantage,2006,142
+2022-10,Hyundai,Veracruz,2007,143
+2022-03,Volkswagen,GLI,2009,19
+2019-08,BMW,5 Series,1992,39
+2022-11,Maserati,GranTurismo,2010,119
+2022-01,Buick,Park Avenue,1992,70
+2021-02,Jeep,Grand Cherokee,1999,50
+2019-05,Infiniti,QX,2006,142
+2018-04,Saturn,Sky,2007,131
+2022-10,Lexus,RX,2006,154
+2022-02,Land Rover,Discovery Series II,2002,120
+2022-09,Cadillac,STS,2008,29
+2019-04,Ford,Bronco,1994,42
+2022-05,Dodge,Caravan,2003,42
+2020-04,Acura,Integra,1993,8
+2019-06,Mazda,B-Series,2003,95
+2019-09,Pontiac,Aztek,2004,24
+2021-02,Mitsubishi,Precis,1990,32
+2018-06,Dodge,Nitro,2011,190
+2019-08,Cadillac,Seville,1998,91
+2019-03,Lincoln,Town Car,2005,6
+2021-06,Chrysler,300M,2001,56
+2022-02,Jaguar,X-Type,2008,108
+2019-10,Chevrolet,Tahoe,1997,188
+2022-05,Infiniti,J,1997,62
+2020-05,Dodge,Neon,2001,73
+2018-01,Dodge,Ram 2500 Club,1995,169
+2021-12,Lincoln,MKZ,2009,12
+2022-05,Jeep,Wrangler,1995,195
+2020-10,Jeep,Liberty,2007,142
+2020-11,Kia,Optima,2003,36
+2019-07,Ford,Mustang,1986,111
+2019-02,Mazda,MX-3,1994,39
+2018-06,Chevrolet,Corvette,1972,43
+2020-01,Chrysler,Cirrus,1997,60
+2019-05,Ford,F-Series,2008,184
+2019-12,Audi,5000CS Quattro,1986,166
+2019-08,Jaguar,XJ Series,1996,162
+2022-11,Dodge,Caravan,1985,127
+2019-07,Nissan,GT-R,2012,36
+2021-10,Chevrolet,Express,2012,113
+2022-02,Chevrolet,Silverado 2500,2012,34
+2018-12,Nissan,Sentra,2008,10
+2018-08,Cadillac,CTS-V,2006,57
+2019-10,Buick,Riviera,1996,23
+2019-04,Chevrolet,Express 3500,2007,141
+2019-06,GMC,3500,1994,1
+2019-10,Plymouth,Colt Vista,1994,80
+2022-07,Pontiac,Grand Prix,1989,97
+2021-07,Jeep,Wrangler,2002,139
+2018-10,GMC,Safari,1992,41
+2019-09,Scion,xB,2012,159
+2018-03,Mercedes-Benz,E-Class,2012,145
+2018-07,GMC,Sierra 1500,2013,179
+2022-10,Honda,Civic,2006,171
+2020-01,Mitsubishi,Galant,1987,171
+2020-02,Lotus,Esprit,1986,104
+2020-06,Toyota,Corolla,2012,22
+2021-03,Audi,S4,2006,179
+2018-09,Dodge,Ram 2500 Club,1997,57
+2021-08,Mazda,MX-6,1989,143
+2019-10,Daewoo,Nubira,1999,108
+2018-07,Pontiac,Sunfire,2004,9
+2018-10,Hyundai,Sonata,2003,147
+2021-07,Bentley,Continental Flying Spur,2008,12
+2022-03,Volvo,960,1997,93
+2020-03,Lincoln,Continental,1997,92
+2019-04,Suzuki,SJ,1987,131
+2022-12,Lincoln,Mark VIII,1994,149
+2019-12,GMC,Yukon XL 2500,2013,99
+2020-10,Lamborghini,Reventón,2008,197
+2019-08,Lincoln,Continental,1988,6
+2018-05,Ford,Thunderbird,1965,166
+2018-11,BMW,3 Series,2008,125
+2018-08,Isuzu,Rodeo,1994,33
+2021-07,Chevrolet,Suburban 1500,1996,183
+2021-07,Mazda,MX-5,2011,148
+2021-06,Mercedes-Benz,SLR McLaren,2009,80
+2021-12,Hyundai,Scoupe,1994,159
+2018-10,Ford,Taurus X,2009,189
+2022-01,Studebaker,Avanti,1963,132
+2018-08,Chevrolet,Caprice,1995,131
+2018-09,Ford,Bronco,1986,198
+2020-05,Chevrolet,Malibu Maxx,2006,198
+2020-08,Mitsubishi,Endeavor,2009,83
+2018-08,Saab,9000,1995,8
+2021-03,Chevrolet,Avalanche,2012,179
+2022-07,Suzuki,Swift,1997,150
+2020-05,Mazda,Miata MX-5,2006,59
+2022-11,Toyota,Sequoia,2009,26
+2022-01,Acura,TSX,2007,19
+2022-08,Honda,Odyssey,2002,129
+2018-02,Ford,Mustang,1993,118
+2019-11,Nissan,Murano,2004,137
+2022-02,Chevrolet,G-Series 1500,1997,112
+2018-09,Plymouth,Laser,1992,171
+2022-02,Volvo,S60,2004,22
+2021-10,Honda,Odyssey,1998,40
+2018-06,Porsche,911,2003,21
+2020-09,Volvo,S40,2001,77
+2019-06,Mitsubishi,Galant,1992,75
+2018-06,Pontiac,Grand Prix,1995,123
+2022-12,Lotus,Esprit Turbo,1984,32
+2019-09,Buick,LaCrosse,2006,3
+2019-09,Audi,Q7,2012,166
+2021-04,Mercury,Milan,2006,75
+2021-08,Pontiac,Grand Am,2001,117
+2022-03,BMW,325,2005,110
+2021-03,Saab,9-7X,2007,146
+2020-10,Chevrolet,Camaro,1996,145
+2019-11,Acura,Legend,1995,36
+2020-12,Mercedes-Benz,500SL,1993,2
+2022-08,Lincoln,MKT,2013,180
+2022-06,Volkswagen,New Beetle,2006,170
+2021-07,Chevrolet,Sportvan G20,1992,16
+2019-05,Suzuki,Swift,1993,50
+2022-06,Mazda,MX-6,1988,6
+2021-07,Lexus,IS F,2008,133
+2021-03,GMC,Savana 2500,2001,68
+2022-05,Buick,Park Avenue,1997,140
+2020-09,Mercury,Mountaineer,1997,26
+2019-04,Chevrolet,Impala,2011,119
+2021-06,Nissan,Altima,2010,153
+2019-09,Geo,Metro,1994,198
+2022-04,Ford,Bronco,1986,169
+2020-07,Nissan,Frontier,2004,46
+2021-09,GMC,3500,1992,175
+2021-04,Porsche,Cayenne,2013,4
+2020-01,MINI,Cooper Clubman,2011,23
+2021-02,Chevrolet,Astro,2000,16
+2021-07,Scion,xB,2005,134
+2019-02,Volkswagen,GLI,2008,54
+2021-02,Lexus,LS,1991,183
+2021-12,Pontiac,Grand Prix,1980,193
+2020-12,Subaru,Legacy,1989,30
+2018-07,BMW,5 Series,1994,75
+2018-10,Dodge,Stealth,1992,168
+2022-07,Volkswagen,Golf,1996,155
+2019-03,Toyota,Tacoma,1999,6
+2018-03,MINI,Clubman,2009,143
+2022-07,Eagle,Vision,1994,57
+2022-08,Buick,Coachbuilder,1992,41
+2019-06,BMW,X6,2011,111
+2021-02,Mitsubishi,Chariot,1989,74
+2020-07,Panoz,Esperante,2007,146
+2020-08,Hyundai,Sonata,2008,144
+2020-02,Mitsubishi,Galant,1994,129
+2020-08,GMC,Safari,1992,106
+2018-10,Infiniti,Q,2001,76
+2018-02,Toyota,FJ Cruiser,2011,51
+2018-03,Ford,Taurus,1988,41
+2020-05,Porsche,Boxster,1999,26
+2022-04,Audi,A6,2005,68
+2022-05,Audi,A8,2012,51
+2021-02,Nissan,Quest,2007,177
+2021-10,Lincoln,Navigator,2001,194
+2018-04,Audi,A8,2010,72
+2018-06,Jeep,Grand Cherokee,2004,117
+2020-03,Pontiac,Bonneville,1999,167
+2022-03,Jaguar,XF,2011,125
+2022-07,Lexus,ES,1998,184
+2019-09,Chevrolet,Camaro,1978,154
+2018-06,Chevrolet,Suburban,2006,16
+2021-02,Hummer,H2,2004,161
+2020-06,Toyota,Land Cruiser,2005,137
+2022-04,Maserati,GranTurismo,2008,93
+2018-03,Nissan,Maxima,2006,55
+2022-04,Mazda,626,1998,30
+2022-11,Toyota,Highlander,2011,22
+2022-12,Mitsubishi,Lancer Evolution,2003,91
+2021-02,Ford,Bronco,1988,142
+2022-05,Honda,Accord,1993,33
+2022-07,GMC,Envoy,2008,119
+2019-09,Acura,TL,1995,131
+2019-06,Volkswagen,Jetta,2002,144
+2018-09,Infiniti,I,1999,32
+2018-12,Mazda,MPV,2005,141
+2022-11,Mazda,B-Series Plus,1999,53
+2018-11,Dodge,Caravan,2001,8
+2019-10,GMC,Suburban 1500,1996,163
+2020-12,Mitsubishi,Eclipse,1990,30
+2019-09,Suzuki,Esteem,2000,87
+2022-07,Mercury,Sable,1987,103
+2022-02,Chrysler,Concorde,2004,119
+2018-07,Volvo,C70,2007,145
+2018-09,Dodge,Ram Van B150,1993,75
+2019-06,GMC,Rally Wagon 3500,1992,189
+2020-05,Toyota,Avalon,2004,169
+2018-11,Dodge,Grand Caravan,1995,100
+2018-08,Toyota,Sienna,2000,39
+2020-07,Buick,Century,1999,79
+2022-12,Toyota,Tundra,2008,28
+2019-05,Jaguar,XJ Series,1994,154
+2019-12,Nissan,Xterra,2009,8
+2020-02,Pontiac,Aztek,2001,52
+2021-08,Subaru,Impreza,1993,181
+2019-09,GMC,Savana,2011,4
+2019-01,Porsche,924,1988,180
+2018-10,GMC,Canyon,2011,65
+2019-04,GMC,Suburban 1500,1996,84
+2019-07,Chrysler,300,2011,57
+2019-04,Mercury,Grand Marquis,2009,70
+2019-01,Buick,LeSabre,2005,93
+2018-09,Toyota,4Runner,2003,135
+2019-05,Chevrolet,HHR,2009,51
+2022-05,Volkswagen,Cabriolet,1987,79
+2018-05,MINI,Cooper Clubman,2010,84
+2021-08,Volvo,S40,2001,199
+2019-08,Dodge,Ram 1500,2008,144
+2020-08,Dodge,Viper,2009,6
+2018-12,Dodge,Caravan,2010,75
+2021-09,Kia,Sorento,2006,47
+2018-06,Ford,Taurus,1989,24
+2019-02,Ford,Mustang,2002,107
+2022-06,Infiniti,EX,2011,171
+2022-06,Mazda,Mazdaspeed 3,2010,83
+2021-06,Chevrolet,Corvette,1987,117
+2018-03,Chevrolet,G-Series 1500,1998,79
+2019-09,Cadillac,CTS,2004,159
+2021-01,Audi,S5,2011,136
+2019-07,Pontiac,Trans Sport,1997,143
+2018-03,Pontiac,Vibe,2010,58
+2020-12,Mazda,Millenia,2001,96
+2020-04,Ford,Taurus,1989,100
+2018-07,Nissan,Xterra,2002,128
+2020-10,Acura,CL,1997,104
+2021-04,Chevrolet,HHR,2010,120
+2020-01,Mazda,RX-7,1986,144
+2022-11,Mitsubishi,Mirage,1996,200
+2019-07,Chevrolet,Express 3500,2002,57
+2020-10,Hummer,H1,1994,77
+2018-02,Toyota,Prius,2009,36
+2022-12,Lexus,ES,1999,182
+2022-04,Toyota,Tercel,1997,165
+2022-03,Volvo,V70,2000,93
+2018-12,Pontiac,Grand Am,2005,99
+2021-08,Toyota,Highlander,2005,194
+2019-05,Porsche,928,1987,59
+2018-04,Chrysler,Sebring,2005,96
+2019-03,Mitsubishi,Endeavor,2011,85
+2020-01,Mitsubishi,Outlander,2012,79
+2020-10,Jeep,Grand Cherokee,1997,38
+2018-01,Volkswagen,Touareg,2011,73
+2022-06,Lamborghini,Diablo,1999,20
+2021-04,GMC,Suburban 1500,1999,138
+2019-10,GMC,Yukon,2008,163
+2018-07,GMC,Acadia,2011,156
+2018-08,Dodge,Ram Van B150,1994,56
+2019-05,Jaguar,X-Type,2005,25
+2022-06,Lincoln,Town Car,2010,79
+2021-06,Audi,80,1990,32
+2021-08,Nissan,Armada,2011,195
+2021-06,Austin,Mini,1963,29
+2018-10,Jaguar,XJ Series,1999,58
+2021-06,BMW,3 Series,2008,74
+2018-05,BMW,Z4,2003,131
+2018-10,Lamborghini,Diablo,1998,37
+2019-03,Mazda,Protege,1992,161
+2020-01,Volkswagen,New Beetle,2000,106
+2019-01,Chrysler,Concorde,1995,8
+2018-05,Chevrolet,Corvette,1965,4
+2022-07,Ford,Econoline E250,1999,178
+2020-07,Lexus,LX,2013,137
+2021-07,BMW,7 Series,2006,160
+2019-06,Toyota,Avalon,1997,69
+2020-03,Ford,Ranger,2005,64
+2022-12,Mitsubishi,Truck,1991,56
+2021-04,Audi,A6,2002,13
+2021-11,Mercedes-Benz,C-Class,2003,171
+2020-02,GMC,Vandura 1500,1993,47
+2022-05,Dodge,Intrepid,1997,59
+2022-03,GMC,Sierra 1500,2011,69
+2019-07,Chevrolet,G-Series 1500,1998,192
+2020-03,GMC,1500 Club Coupe,1997,167
+2019-02,Volkswagen,Passat,1997,30
+2018-12,Volkswagen,Routan,2010,13
+2020-12,Dodge,Avenger,2011,171
+2020-04,Dodge,Nitro,2010,42
+2018-07,Ford,E350,2005,68
+2019-03,Acura,RSX,2004,190
+2022-10,Infiniti,I,1996,135
+2022-05,Ford,E250,2005,28
+2019-07,Cadillac,Escalade,2009,53
+2018-04,Dodge,Ram 1500 Club,1995,125
+2022-12,Nissan,Murano,2010,124
+2021-01,Lexus,IS F,2008,16
+2022-01,Scion,xB,2012,44
+2018-03,Suzuki,SJ,1992,173
+2018-11,Suzuki,Forenza,2007,94
+2022-08,Subaru,Impreza,2005,151
+2022-10,Lexus,RX Hybrid,2012,54
+2018-12,Mazda,Miata MX-5,1995,103
+2020-07,Ford,Econoline E350,1992,11
+2018-03,Mazda,MX-5,2001,9
+2018-10,Land Rover,Discovery,2011,39
+2020-03,Oldsmobile,Achieva,1992,142
+2020-04,Lexus,LX,2002,173
+2019-11,Chevrolet,Citation,1980,130
+2022-05,Honda,CR-V,2012,56
+2022-10,Lexus,IS F,2008,50
+2021-09,Cadillac,Escalade ESV,2008,193
+2022-12,Mitsubishi,Truck,1996,152
+2021-12,Mercedes-Benz,W201,1992,89
+2019-07,Nissan,Versa,2007,22
+2022-12,Chevrolet,Silverado 3500,2009,169
+2018-07,Chrysler,New Yorker,1993,97
+2021-01,Mitsubishi,Lancer,2004,65
+2020-06,Dodge,Durango,2009,145
+2022-12,Buick,Riviera,1996,173
+2021-08,Chevrolet,S10,1994,54
+2022-11,Cadillac,DeVille,1994,117
+2022-03,Toyota,RAV4,2012,152
+2018-09,Nissan,Murano,2012,119
+2020-03,Chrysler,Town & Country,2004,8
+2020-09,Ford,Ranger,2005,78
+2020-12,Mercedes-Benz,W201,1992,61
+2022-05,Alfa Romeo,164,1994,186
+2019-08,Subaru,Legacy,2003,165
+2020-09,Scion,xB,2008,190
+2018-01,GMC,Sonoma Club Coupe,1996,97
+2022-09,Chevrolet,Suburban 1500,2011,200
+2019-12,Dodge,Dakota Club,1996,164
+2020-05,Isuzu,Rodeo,2001,182
+2019-05,Dodge,Ram 50,1992,194
+2020-04,Audi,5000S,1987,104
+2021-11,Infiniti,G37,2011,167
+2022-09,Volkswagen,Jetta,2002,49
+2022-11,Daihatsu,Charade,1992,200
+2018-02,Cadillac,DeVille,2002,52
+2020-07,Aston Martin,Rapide,2010,156
+2019-04,Kia,Spectra,2003,167
+2020-05,Buick,Enclave,2012,196
+2022-09,Ford,Escape,2004,143
+2022-10,Dodge,Grand Caravan,1993,16
+2019-10,Saab,900,1997,152
+2021-01,Volkswagen,Touareg,2003,194
+2021-01,Buick,Estate,1989,185
+2022-12,Mitsubishi,Galant,2011,83
+2021-01,Ford,Thunderbird,1986,113
+2022-11,Nissan,GT-R,2009,100
+2019-09,Lamborghini,Diablo,2001,82
+2018-10,Honda,Civic,1990,190
+2020-04,Ford,Ranger,2000,51
+2022-10,Hyundai,Elantra,1992,24
+2018-06,Kia,Rondo,2007,125
+2022-05,Chevrolet,Impala,2005,197
+2018-01,Aston Martin,DBS,2009,135
+2022-03,Mercury,Grand Marquis,1995,63
+2018-02,Ford,Ranger,1996,32
+2018-09,Mitsubishi,Pajero,1987,91
+2020-01,Honda,Prelude,1996,118
+2018-07,GMC,Sierra 2500,2010,130
+2018-05,Toyota,Land Cruiser,2005,179
+2019-11,Infiniti,G,2012,7
+2018-02,Dodge,Intrepid,2003,67
+2018-03,Suzuki,SJ,1990,137
+2019-03,Volkswagen,GTI,2008,95
+2022-10,Mitsubishi,Eclipse,2008,197
+2019-12,Mercedes-Benz,GL-Class,2008,134
+2021-12,Chrysler,Sebring,2001,102
+2022-10,Ford,Mustang,1966,160
+2020-01,Volvo,S40,2007,167
+2018-10,BMW,M6,2009,132
+2018-12,Honda,S2000,2006,20
+2022-11,Ford,EXP,1984,179
+2022-07,Porsche,Cayman,2011,200
+2021-06,Ford,E350,2005,140
+2021-08,Audi,80/90,1988,111
+2018-06,Oldsmobile,Achieva,1994,128
+2021-07,Nissan,JUKE,2011,82
+2022-11,Honda,Ridgeline,2008,56
+2020-01,GMC,1500,1998,57
+2018-10,Pontiac,Grand Prix,1997,43
+2020-04,Volkswagen,Jetta,1992,131
+2022-09,Mazda,B-Series Plus,2000,7
+2019-04,Lexus,ES,1989,1
+2021-02,Chevrolet,Sportvan G20,1995,117
+2018-09,Mazda,MX-5,2007,61
+2021-01,Hummer,H3,2008,129
+2019-09,Mitsubishi,Lancer Evolution,2008,47
+2018-01,Audi,A8,2004,25
+2018-07,Nissan,Altima,1993,191
+2019-04,GMC,1500 Club Coupe,1993,68
+2019-09,Nissan,200SX,1997,67
+2018-11,Ford,Crown Victoria,2002,43
+2018-12,Pontiac,Bonneville,1984,183
+2020-06,Lexus,SC,1993,69
+2021-06,Ford,Mustang,2004,191
+2019-09,Mercury,Mountaineer,1998,102
+2018-02,Ford,Edge,2013,5
